@@ -1,4 +1,5 @@
-3326715 (HEAD -> main) Finished Task 2.1.4
+814d73e (HEAD -> main) Finished Task 2.1
+3326715 Finished Task 2.1.4
 bf9f2f6 Finished Task 1.2
 e043203 Finished Task 1.1
 64f2897 (origin/main, origin/HEAD) Initial commit
